@@ -27,7 +27,6 @@ It also makes use of variables, classes, functions, recursion, loops, window cre
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Add an automatic check for valid moves (currently requires the user to do this).
 * Add a turn indicator to show whose turn it is.
 * Add sounds and simple animation for flipping pieces.

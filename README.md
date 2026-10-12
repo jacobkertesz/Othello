@@ -11,7 +11,6 @@ This project uses mouse inputs, the spacebar, and the "r" key.
 
 When every square is filled, the loser's pieces turn gray. If there is a tie, all pieces turn gray.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
 [Software Demo Video](https://youtu.be/DNWlxYGESf0)
 
@@ -22,7 +21,6 @@ It also makes use of variables, classes, functions, recursion, loops, window cre
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3 Schools](https://www.w3schools.com/python/)
 * [Pygame](https://www.pygame.org/docs/)
 * [Othello Rules](https://www.worldothello.org/about/about-othello/othello-rules/official-rules/english)
